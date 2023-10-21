@@ -1,0 +1,19 @@
+<Html><head><title>agriculture</title>
+</Head><body background="1.jpg">
+<Center>
+<Font color="brown"><h3>
+Agriculture forming education <br>
+</font><font color="blur">
+Tirupur</h3>
+</Center></font><p><font color="black">
+<U>courses</u></br></font><font color="purple">
+<U1>
+<Li>horticulture
+<Li>land management
+<Li>turf grass management
+<Li>small animal care
+</U1></font><font color="blue">
+<A href="agri11.html">home</font>
+</A>
+</body>
+</Html> 

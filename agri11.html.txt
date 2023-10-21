@@ -1,0 +1,18 @@
+<html>
+<Head><title>AGRICULTURE</title>
+</Head><body background ="1.jpg">
+<font color="brown">
+<Center>
+<H1>agriculture forming education<h1>
+</Font><font color="red">
+</H3>"agriculture is the most healthful,Most useful and most noble employement of man"
+<Br></font><font color="blue">
+Tirupur<br>
+Ph:12346789</h3></center>
+</Font><font color="orange">
+<U>our page</u>
+<Font color="blue"><u1>
+<Li><a href="about us.html">
+About us </a>
+<Li><a href="Agri2.html">
+home</a></u1></font></body></html> 
